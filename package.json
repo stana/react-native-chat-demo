@@ -1,0 +1,20 @@
+{
+  "name": "react-native-chat-demo",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.34.1",
+    "react-native-gifted-chat": "0.0.10",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0"
+  },
+  "devDependencies": {
+    "react-transform-hmr": "^1.0.4",
+    "redux-logger": "^2.7.0"
+  }
+}
