@@ -11,5 +11,5 @@ For more detailed discussion structuring react redux apps by feature see -
 * http://jaysoo.ca/2016/02/28/organizing-redux-application
 * http://marmelab.com/blog/2015/12/17/react-directory-structure.html
 
-api calls are mocked in api/mockChatApi.js with some mock delay to exercise handling data fetching
-delay state.
+api calls are mocked in api/mockChatApi.js with some mock delay to exercise handling
+'data is fetching' state.
