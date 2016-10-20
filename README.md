@@ -9,9 +9,9 @@ the feature to the rest of the app.
 
 For more detailed discussion structuring react apps this way see -
 
-[http://jaysoo.ca/2016/02/28/organizing-redux-application]
+http://jaysoo.ca/2016/02/28/organizing-redux-application
 
-[http://marmelab.com/blog/2015/12/17/react-directory-structure.html]
+http://marmelab.com/blog/2015/12/17/react-directory-structure.html
 
 api calls are mocked in api/mockChatApi.js with some mock delay to exercise handling data fetching
 delay state.
