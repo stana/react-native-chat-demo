@@ -1,13 +1,11 @@
 # react-native-chat-demo
 React Native demo used while learning Redux, NavigationExperimental. Uses GiftedChat lib.
 
-Also an attempt at app structuring by app feature/content type (chatroot, chatmessage) rather 
-than the usual structure by react component type (action, components, containers, reducers 
-directories). 
-
-This way all of the feature functionality (actions, components, containers, reducers) contained
-as a single module. index.js at the root of the module (eg. chatroom/index.js) then
-acts as an API interface exposing public parts of the feature to the rest of the app.
+Also an attempt at app structuring by app feature/content type (chatroot, chatmessage), rather 
+than the usual structure having single feature code across different react components (actions, 
+components, containers, reducers directories). This way all of the feature functionality contained
+as a single module. index.js at the root of the module (eg. chatroom/index.js) can then act
+as an API interface exposing public parts of the feature to the rest of the app.
 
 For more detailed discussion structuring react apps this way see -
 
