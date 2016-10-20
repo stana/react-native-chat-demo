@@ -8,7 +8,7 @@ const chatRooms = [
             {
                 _id: 2,
                 text: 'Not much...',
-                createdAt: new Date(Date.UTC(2016, 10, 1, 17, 21, 0)),
+                createdAt: new Date(Date.UTC(2016, 9, 20, 4, 21, 0)),
                 user: {
                     _id: 2,
                     name: 'Joe Blogs',
@@ -18,7 +18,7 @@ const chatRooms = [
             {
                 _id: 1,
                 text: 'What\'s buzzin cousin?',
-                createdAt: new Date(Date.UTC(2016, 10, 1, 17, 20, 0)),
+                createdAt: new Date(Date.UTC(2016, 9, 20, 4, 20, 0)),
                 user: {
                     _id: 1,
                     name: 'Mini Me',
@@ -34,7 +34,7 @@ const chatRooms = [
             {
                 _id: 3,
                 text: 'Let\'s get pizza.',
-                createdAt: new Date(Date.UTC(2016, 10, 1, 19, 21, 0)),
+                createdAt: new Date(Date.UTC(2016, 9, 20, 4, 7, 0)),
                 user: {
                     _id: 3,
                     name: 'React Native',
@@ -44,7 +44,7 @@ const chatRooms = [
             {
                 _id: 2,
                 text: 'Starving here...',
-                createdAt: new Date(Date.UTC(2016, 10, 1, 19, 21, 0)),
+                createdAt: new Date(Date.UTC(2016, 9, 20, 4, 6, 0)),
                 user: {
                     _id: 1,
                     name: 'Mini Me',
@@ -54,7 +54,7 @@ const chatRooms = [
             {
                 _id: 1,
                 text: 'What\'s cookin good lookin?',
-                createdAt: new Date(Date.UTC(2016, 10, 1, 19, 20, 0)),
+                createdAt: new Date(Date.UTC(2016, 9, 20, 4, 5, 0)),
                 user: {
                     _id: 1,
                     name: 'Mini Me',
